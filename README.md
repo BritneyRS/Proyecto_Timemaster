@@ -4,7 +4,7 @@ El objetivo de este proyecto es desarrollar un aplicativo de gestor multiproposi
 ## Integrantes
 
 | Apellido | Nombre |
-| -------|----- |
+| -------|------ |
 |Espejo Mayhua | Jhoanes Lenin |
 |Galindo Beltran | Giancarlo Alexander |
 |Mendez Mejia | Aaron Alfredo |
